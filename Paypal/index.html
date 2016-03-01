@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>HMRRC Paypal troubleshoot</title>
+
+		<meta name="description" content "HMRRC Paypal troubleshoot">
+		<meta name="author" content="Brian Northan">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="../reveal.js-3.1.0/css/reveal.css">
+		<link rel="stylesheet" href="../reveal.js-3.1.0/css/theme/beige.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="../reveal.js-3.1.0/lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '../reveal.js-3.1.0/css/print/pdf.css' : '../reveal.js-3.1.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<script type="text/javascript"
+            		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    		</script>
+
+		<!--[if lt IE 9]>
+		<script src="../reveal.js-3.1.0/lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+		
+			<section data-background="./background.jpg"i>
+					<h2>HMRRC Paypal Troubleshooting</h2>
+			</section>	
+	
+			<section data-background="./background.jpg"i>
+					<h2>HMRRC Paypal Troubleshooting</h2>
+					<h3>Step 1</h3>
+					<ul>
+						<li>If you have a PayPal account<ul> select "Have a PayPal account?"</ul></li>
+						<li>Otherwise fill in the form that is below the words</li><ul> "Don't have a PayPal account?"</ul></li>
+							<li>Make sure all information is correct.</li>
+						</ul></li>
+			</section>	
+			
+			<section data-background="./background.jpg">
+					<img src="./paypal1.jpg">
+			</section>	
+	
+			<section data-background="./background.jpg"i>
+					<h2>HMRRC Paypal Troubleshooting</h2>
+					<h3>Step 2</h3>
+					<ul>
+						<li>Fill in credit card and/or debit card information</li>
+						<li>MAKE SURE BILLING ADDRESS IS CORRECT
+							<ul>
+								<li>Change Billing Address if incorrect</li>
+							</ul></li>
+							<li>Make sure expiration date and CSC number are correct.</li>
+					</ul>
+			</section>	
+	
+			<section data-background="./background.jpg">
+					<img src="./paypal2.jpg">
+			</section>
+
+			<section data-background="./background.jpg"i>
+					<h2>HMRRC Paypal Troubleshooting</h2>
+					<h3>If something goes wrong</h3>
+					<ul>
+						<li>Your e-mail address may be associated with a defunct PayPal account<ul><li> try a different e-mail if possible</li></ul></li>
+						<li>Transcribe error message exactly and send to HMRRC representative</li>
+						<li>Take a screen shot of the error message and send to HMRRC representative</li>
+					</ul>
+			</section>	
+	
+
+			<section data-background="./background.jpg">
+					<img src="./paypal3.jpg">
+			</section>	
+			
+			<section data-background="./background.png">
+					<h2>sqlite</h2>
+
+					<section>
+						<p>SQLite</p>
+					</section>
+
+					<section>
+						<p>Basic sqllite example</p>
+  					<pre><code class="python" data-trim contenteditable>
+import sqlite3
+
+with sqlite3.connect(":memory:") as con:
+    c=con.cursor()					
+					
+						</code></pre>
+					</section>
+
+		</section>
+
+
+	
+			</div>
+
+		</div>
+
+		<script src="../reveal.js-3.1.0/lib/js/head.min.js"></script>
+		<script src="../reveal.js-3.1.0/js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'none', // none/fade/slide/convex/concave/zoom
+				
+				math: {
+        				mathjax: 'http://cdn.mathjax.org/mathjax/latest/MathJax.js',
+        				config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
+   					 },
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: '../reveal.js-3.1.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../reveal.js-3.1.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../reveal.js-3.1.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../reveal.js-3.1.0/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../reveal.js-3.1.0/plugin/zoom-js/zoom.js', async: true },
+					{ src: '../reveal.js-3.1.0/plugin/notes/notes.js', async: true },
+					{src: '../reveal.js-3.1.0/plugin/math/math.js', async: true },		
+					]
+			});
+
+		</script>
+
+	</body>
+</html>
