@@ -28,18 +28,18 @@ Aaron,Lozier,M,Albany,NY,27,1406882686,1406882686,No,Yes,ARE Racing Team,yes
 Nicole,Soblosky,F,Albany,NY,28,1407032208,1407032208,Yes,Yes,ARE Racing Team,yes
 Tina,Greene,F,Scotia,NY,42,1407430659,1407430659,No,Yes,ARE Racing Team,yes
 Amy,Babeu,F,Guilderland,NY,23,1508133079,1508133079,Yes,Yes,ARE Racing Team,yes
-Shaun,Donegan,M,Malta,NY,30,1508312871,1508312871,,,ARE Racing Team,yes
+Shaun,Donegan,M,Malta,NY,30,1508312871,1508312871,,Yes,ARE Racing Team,yes
 Michael,DiNicola,M,Albany,NY,41,1608890370,1608890370,Yes,Yes,ARE Racing Team,yes
 John,Pusateri,M,Castleton,NY,48,1407974276,1407974276,No,Yes,Castleton Cruisers,yes
 Meaghan,Podlaski,F,Niskayuna,NY,18,1406957041,1406957041,No,Yes,Fleet Feet Sports Running/Walking Club,yes
-Eric,Young,M,Latham,NY,24,1503574863,1503574863,Yes,No,Fleet Feet Sports Running/Walking Club,yes
+Eric,Young,M,Latham,NY,24,1503574863,1503574863,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Hillary,Johnson,F,Albany,NY,29,1508162276,1508162276,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Peter,Fish,M,Castleton,NY,57,1508222351,1508222351,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Perry,Gava,M,Clifton Park,NY,57,1508223805,1508223805,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Diane,Thompson,F,Latham,NY,61,1508361399,1508361399,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Jeffrey,Mullen,M,Ballston Lake,NY,33,1508468749,1508468749,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Colleen,Walsh,F,Troy,NY,59,1508478128,1508478128,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Frederick,Kopff,M,Guilderland,NY,47,1608898852,1608898852,Yes,No,Fleet Feet Sports Running/Walking Club,yes
+Frederick,Kopff,M,Guilderland,NY,47,1608898852,1608898852,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
 Nina,Lynch,F,Clifton Park,NY,35,1608900740,1608900740,No,Yes,Fleet Feet Sports Running/Walking Club,yes
 Jonathan,Golden,M,Slingerlands,NY,42,1406279172,1406279172,Yes,Yes,Hudson Mohawk Road Runners Club,yes
 Kim,Law,F,East Greenbush,NY,58,1407579570,1407579570,Yes,Yes,Hudson Mohawk Road Runners Club,yes
@@ -72,13 +72,13 @@ Ben,Heller,M,Albany,NY,27,1407697158,1407697158,Yes,Yes,Team Utopia,yes
 Emily,Bryans,F,Delanson,NY,48,1400030571,1400030571,Yes,Yes,Willow Street AC,yes
 Martha C.,DeGrazia,F,Slingerlands,NY,65,1400030795,1400030795,Yes,Yes,Willow Street AC,yes
 Nancy,Nicholson,F,Queensbury,NY,53,1400031132,1400031132,Yes,Yes,Willow Street AC,yes
-Beth,Stalker,F,Burnt Hills,NY,56,1401442754,,Yes,Yes,Willow Street AC,no
+Beth,Stalker,F,Burnt Hills,NY,56,1401442754,,Yes,Yes,Willow Street AC,yes
 Chuck,Terry,M,Albany,NY,33,1402721458,1402721458,Yes,Yes,Willow Street AC,yes
 Mary,Buck,F,Mechanicville,NY,52,1403193491,1403193491,Yes,Yes,Willow Street AC,yes
 Volker,Burkowski,M,Gansevoort,NY,44,1403738154,1403738154,Yes,Yes,Willow Street AC,yes
 Alex,Benway,M,Saratoga Springs,NY,25,1403887639,1403887639,No,Yes,Willow Street AC,yes
 Liz,Chauhan,F,Albany,NY,31,1405924349,1405924349,Yes,Yes,Willow Street AC,yes
-Sally,Drake,F,Albany,NY,43,1406376473,,Yes,Yes,1608821300,no
+Sally,Drake,F,Albany,NY,43,1406376473,,Yes,Yes,Willow Street AC,no
 john,stadtlander,M,Clifton park,NY,50,1406402980,1406402980,Yes,Yes,Willow Street AC,yes
 Kari,Deer,F,Slingerlands,NY,37,1406697241,1406697241,Yes,Yes,Willow Street AC,yes
 Colleen,Brackett,F,Albany,NY,56,1407544798,1407544798,Yes,Yes,Willow Street AC,yes
@@ -161,15 +161,15 @@ Cara,Wolff,F,Niskayuna,NY,41,,,Yes,No,,
 Kristine,Clarke,F,Niskayuna,NY,51,,,Yes,No,,
 Shannon,Bishop,F,Rensselaer,NY,44,,,Yes,No,,
 Sherrri,Pignetti,F,rotterdam junction,NY,52,,,Yes,No,,
-Samantha,McBee,F,Saratoga Springs,NY,30,,1407590254,Yes,No,Team Utopia,yes
+Samantha,McBee,F,Saratoga Springs,NY,30,,1407590254,Yes,Yes,Team Utopia,yes
 Lynne,Neeley,F,Schenectady,NY,52,,,Yes,No,,
 Elizabeth,Burke,F,Schenectady,NY,26,,,Yes,No,,
 Margaret,Burke,F,Schenectady,NY,52,,,Yes,No,,
 Rebecca,McMillen,F,Schenectady,NY,42,,,No,No,,
 Maria,Morales,F,Schenectady,NY,31,,,No,No,,
-Julia,Flower,F,Schenectady,NY,17,,,Yes,Yes,,
+Julia,Flower,F,Schenectady,NY,17,,,Yes,Yes,Kinetic Running Club,
 Rachel,Brunez,F,Scotia,NY,26,,,No,No,,
-Jessica,Whiting,F,Scotia,NY,38,,,Yes,No,1608821300,
+Jessica,Whiting,F,Scotia,NY,38,1608821300,,Yes,No,,
 Kate,Bellotti,F,Scotia,NY,39,,,No,No,,
 Dee,Fisher-Golden,F,Slingerlands,NY,45,,,Yes,No,,
 Uzma,Qureshi,F,Slingerlands,NY,54,,,Yes,No,,
@@ -214,7 +214,7 @@ Joseph,Somerville,M,Wynantskill,NY,18,,,Yes,No,,
 Alec,Hansen,M,Wynantskill,NY,10,,,Yes,No,,
 Colin,Hansen,M,Wynantskill,NY,12,,,Yes,No,,
 Sunil,Kumta,M,Schenectady,NY,52,,,Yes,Yes,,
-Ray,Newkirk,M,Albany,NY,71,,,Yes,Yes,,
+Ray,Newkirk,M,Albany,NY,71,,,Yes,Yes,Willow Street AC,
 Timothy J.,Mackesey,M,Altamont,NY,58,,,Yes,No,,
 Jamie,Casline,M,Ballston Lake,NY,56,,,Yes,No,,
 Michael,Paglialonga,M,Castleton,NY,32,,,No,No,,
@@ -231,7 +231,7 @@ Kevin,Baker,M,Glenmont,NY,47,,,Yes,No,,
 Brian,Teague,M,Glens Falls,NY,57,,,Yes,No,,
 Gerald,Parkes,M,Glenville,NY,51,,,No,No,,
 Frank,Mueller,M,Glenville,NY,56,,,Yes,No,,
-Daniel,Jordy,M,Glenville,NY,32,,,No,Yes,,
+Daniel,Jordy,M,Glenville,NY,32,1404600403,,No,Yes,Willow Street AC,
 Robert,Irwin,M,guilderland,NY,43,,1404603639,Yes,Yes,Willow Street AC,yes
 Thomas,Sisson,M,Halfmoon,NY,54,,,Yes,No,,
 Roy,Mowrey,M,Johnstown,NY,57,,,No,No,,
@@ -250,7 +250,7 @@ Jason,DiPierro,M,Schenectady,NY,41,,,Yes,,,
 Dave,Cole,M,Schenectady,NY,58,,,Yes,,,
 Rich,Burke,M,Schenectady,NY,52,,,Yes,No,,
 William,Dodds,M,Schenectady,NY,41,,,Yes,No,,
-John F.,Parisella,M,Schenectady,NY,58,,,Yes,Yes,,
+John F.,Parisella,M,Schenectady,NY,58,,,Yes,Yes,Team Utopia,
 Peter,Butryn,M,Schenectady,NY,58,,,Yes,No,,
 Holden,Maynard,M,Schenectady,NY,16,,,Yes,No,,
 Steve,Maynard,M,Schenectady,NY,40,,,Yes,No,,
