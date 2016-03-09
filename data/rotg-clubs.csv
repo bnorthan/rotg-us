@@ -78,7 +78,7 @@ Mary,Buck,F,Mechanicville,NY,52,1403193491,1403193491,Yes,Yes,Willow Street AC,y
 Volker,Burkowski,M,Gansevoort,NY,44,1403738154,1403738154,Yes,Yes,Willow Street AC,yes
 Alex,Benway,M,Saratoga Springs,NY,25,1403887639,1403887639,No,Yes,Willow Street AC,yes
 Liz,Chauhan,F,Albany,NY,31,1405924349,1405924349,Yes,Yes,Willow Street AC,yes
-Sally,Drake,F,Albany,NY,43,1406376473,,Yes,Yes,Willow Street AC,no
+Sally,Drake,F,Albany,NY,43,1406376473,,Yes,Yes,1608821300,no
 john,stadtlander,M,Clifton park,NY,50,1406402980,1406402980,Yes,Yes,Willow Street AC,yes
 Kari,Deer,F,Slingerlands,NY,37,1406697241,1406697241,Yes,Yes,Willow Street AC,yes
 Colleen,Brackett,F,Albany,NY,56,1407544798,1407544798,Yes,Yes,Willow Street AC,yes
@@ -99,7 +99,7 @@ David,Roy,M,Schoharie,NY,61,1608853329,1608853329,Yes,Yes,,yes
 David,Roy,M,Schoharie,NY,61,1608853329,1608853329,Yes,Yes,,
 Kathleen,Beeman,F,Niskayuna,NY,55,,,Yes,No,,
 Jill,Penn,F,Colonie,Ny,46,,,No,No,,
-Maria,Schollenberger,F,Delmar,NY,58,,,Yes,,,
+Maria,Schollenberger,F,Delmar,NY,58,,,Yes,,1608821300,
 Christin,Zorda,F,Rotterdam,NY,34,,,Yes,No,,
 Janet,Wallace,F,Thetford center,VT,48,,,No,No,,
 Valerie,Pezzula,F,Albany,NY,61,,,Yes,No,,
@@ -169,7 +169,7 @@ Rebecca,McMillen,F,Schenectady,NY,42,,,No,No,,
 Maria,Morales,F,Schenectady,NY,31,,,No,No,,
 Julia,Flower,F,Schenectady,NY,17,,,Yes,Yes,,
 Rachel,Brunez,F,Scotia,NY,26,,,No,No,,
-Jessica,Whiting,F,Scotia,NY,38,,,Yes,No,,
+Jessica,Whiting,F,Scotia,NY,38,,,Yes,No,1608821300,
 Kate,Bellotti,F,Scotia,NY,39,,,No,No,,
 Dee,Fisher-Golden,F,Slingerlands,NY,45,,,Yes,No,,
 Uzma,Qureshi,F,Slingerlands,NY,54,,,Yes,No,,
@@ -187,7 +187,7 @@ Brian,Daviero,F,Duanesburg,NY,39,,,Yes,No,,
 Patricia,Daviero,F,Duanesburg,NY,40,,,Yes,No,,
 Wendy,Colonno,F,Glenmont,NY,39,,,Yes,No,,
 Ashley,Benincasa,F,Glenville,NY,32,,,No,No,,
-Sarah,Popovitch,F,Saratoga Springs,NY,22,,,No,Yes,,
+Sarah,Popovitch,F,Saratoga Springs,NY,22,1608821300,1608821300,No,Yes,Saratoga Stryders,
 mary kay,scott,F,schenectady,NY,55,,,Yes,No,,
 Kimberly,Furnish,F,Scotia,NY,43,,,Yes,No,,
 Tara,Curran,F,Selkirk,NY,38,,,Yes,No,,
