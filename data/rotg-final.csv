@@ -1,10 +1,10 @@
-bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
+bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname,clubid
 201,Katherine,Ambrosio,F,Delmar,NY,65,,,,,
 202,Marie,Arrao,F,Clifton Park,NY,60,,Yes,No,,
 203,Amy,Babeu,F,Guilderland,NY,23,1508133079,Yes,Yes,ARE Racing Team,279
 204,Richard,Baker,M,Rensselaer,NY,41,,Yes,No,,
-205,Kevin,Baker,M,Glenmont,NY,47,,Yes,No,,
 206,Richard,Baker,M,Rensselaer,NY,41,,Yes,No,,
+205,Kevin,Baker,M,Glenmont,NY,47,,Yes,No,,
 207,Megan,Baldwin,F,Albany,NY,32,,Yes,No,,
 208,George,Baranauskas,M,Scotia,NY,61,1508309760,Yes,Yes,Hudson Mohawk Road Runners Club,201
 209,Kelsey,Barbour,F,Clifton Park,NY,23,,No,No,,
@@ -61,8 +61,8 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 260,Patricia,Daviero,F,Duanesburg,NY,40,,Yes,No,,
 261,Michelle,Davis,F,Watervliet,NY,27,,Yes,No,,
 262,Chuck,DeCitise,M,Troy,NY,45,,Yes,No,,
-263,Kari,Deer,F,Slingerlands,NY,37,1406697241,Yes,Yes,Willow Street AC,264
 264,John,Deer,M,Slingerlands,NY,33,,Yes,No,,
+263,Kari,Deer,F,Slingerlands,NY,37,1406697241,Yes,Yes,Willow Street AC,264
 265,Martha C.,DeGrazia,F,Slingerlands,NY,65,1400030795,Yes,Yes,Willow Street AC,264
 266,Michael,DellaRocco,M,Altamont,NY,64,,Yes,No,,
 267,Kim,DeMagistris,F,Clifton Park,NY,29,,Yes,No,,
@@ -72,8 +72,8 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 271,Patrick,DiCerbo,M,Niskayuna,NY,49,,No,No,,
 272,Michael,DiNicola,M,Albany,NY,41,1608890370,Yes,Yes,ARE Racing Team,279
 273,Joshua,DiPierro,M,Cherry Plane,NY,40,,No,No,,
-274,Leo J.,DiPierro,M,Cherry Plane,NY,65,,Yes,No,,
 275,Jason,DiPierro,M,Schenectady,NY,41,,Yes,,,
+274,Leo J.,DiPierro,M,Cherry Plane,NY,65,,Yes,No,,
 276,William,Dodds,M,Schenectady,NY,41,,Yes,No,,
 277,Karen,Dolge,F,Valatie,NY,45,1401031495,Yes,Yes,Kinderhook Runners Club,287
 278,Shaun,Donegan,M,Malta,NY,30,1508312871,,Yes,ARE Racing Team,279
@@ -91,13 +91,13 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 290,Alan,Finder,M,Albany,NY,27,,Yes,No,,
 291,Timothy,Fioretti,M,Gloversville,NY,40,,Yes,No,,
 292,Christopher,Fischer,M,Latham,NY,39,,Yes,No,,
-293,Peter,Fish,M,Castleton,NY,57,1508222351,Yes,Yes,Fleet Feet Sports Running/Walking Club,283
 294,Brenda,Fish,F,Castleton,NY,49,,Yes,No,,
+293,Peter,Fish,M,Castleton,NY,57,1508222351,Yes,Yes,Fleet Feet Sports Running/Walking Club,283
 295,Dee,Fisher-Golden,F,Slingerlands,NY,45,,Yes,No,,
 296,Paul,Flayter,M,Loudonville,NY,37,,Yes,No,,
 297,Mark F.,Fleszar,M,Troy,NY,,,,,,
-298,Julia,Flower,F,Schenectady,NY,17,1507491940,Yes,Yes,Kinetic Running Club,231
 299,Kerry,Flower,F,Schenectady,NY,15,,Yes,No,,
+298,Julia,Flower,F,Schenectady,NY,17,1507491940,Yes,Yes,Kinetic Running Club,231
 300,Paul,Forbes,M,colonie,NY,65,,Yes,No,,
 301,Lori,Francesconi,F,Waterford,NY,54,,Yes,No,,
 302,Matthew,Fryer,M,clifton park,NY,35,,Yes,No,,
@@ -120,12 +120,12 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 319,Frank,gwinn,M,Troy,NY,42,,No,No,,
 320,William,Hamel,M,Clifton park,NY,44,1508697263,No,Yes,Adirondack Athletic Club,252
 321,Richard D.,Hamlin,M,Chichester,NY,43,,Yes,No,,
-322,Lynn,Hansen,F,Wynantskill,NY,42,,Yes,No,,
 323,Alec,Hansen,M,Wynantskill,NY,10,,Yes,No,,
 324,Colin,Hansen,M,Wynantskill,NY,12,,Yes,No,,
+322,Lynn,Hansen,F,Wynantskill,NY,42,,Yes,No,,
 325,DJ,Hansen,M,Wynantskill,NY,42,,Yes,No,,
-326,Tina,Hayden,F,Schenectady,NY,53,,Yes,No,,
 327,Fiona,Hayden,F,Schenectady,NY,19,,Yes,No,,
+326,Tina,Hayden,F,Schenectady,NY,53,,Yes,No,,
 328,Ben,Heller,M,Albany,NY,27,1407697158,Yes,Yes,Team Utopia,262
 329,Lauren,Herbs,F,Rexford,NY,53,1405253749,Yes,Yes,Saratoga Stryders,203
 330,Courtney,Hill,F,Clifton Park,NY,31,,Yes,No,,
@@ -150,8 +150,8 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 349,Joshua,Katzman,M,Clifton Park,NY,40,,Yes,No,,
 350,Susan,Kayne,F,Rensselaerville,NY,49,,No,No,,
 351,Debra,Kelley,F,albany,NY,62,,Yes,No,,
-352,Joseph A.,Kelly,M,Menands,NY,82,,Yes,No,,
 353,Richard,Kelly,M,Schenectady,NY,59,,Yes,No,,
+352,Joseph A.,Kelly,M,Menands,NY,82,,Yes,No,,
 354,Susan,Klim,F,altamont,NY,60,,Yes,No,,
 355,Kendra,Kline,F,Saratoga Springs,NY,26,,No,No,,
 356,Aaron,Knobloch,M,Niskayuna,NY,39,1404219428,Yes,Yes,ARE Racing Team,279
@@ -166,8 +166,8 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 365,Mark,Lansing,M,Niskayuna,NY,39,,Yes,No,,
 366,James,Larkin,M,Clifton park,NY,68,1406522340,Yes,Yes,Adirondack Athletic Club,252
 367,Virginia,Larner,F,Malta,NY,44,1407607330,Yes,Yes,Saratoga Stryders,203
-368,Kim,Law,F,East Greenbush,NY,58,1407579570,Yes,Yes,Hudson Mohawk Road Runners Club,201
 369,Tom,Law,M,Saratoga Springs,NY,44,1608819650,No,Yes,Saratoga Stryders,203
+368,Kim,Law,F,East Greenbush,NY,58,1407579570,Yes,Yes,Hudson Mohawk Road Runners Club,201
 370,Kirsten,LeBlanc,F,broadalbin,NY,52,1405898311,Yes,Yes,Team Utopia,262
 371,Raymond W.,"Lee, Jr.",M,Halfmoon,NY,74,1400029425,Yes,Yes,Adirondack Athletic Club,252
 372,Tim,Leonard,M,Clifton Park,NY,67,1406349512,Yes,Yes,Adirondack Athletic Club,252
@@ -229,9 +229,9 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 428,Shannon,Pinkowski,F,Albany,NY,40,,Yes,No,,
 429,Meaghan,Podlaski,F,Niskayuna,NY,18,1406957041,No,Yes,Fleet Feet Sports Running/Walking Club,283
 430,Lee,Pollock,M,Queensbury,NY,63,1401820780,Yes,Yes,,
+433,Olivia,Popovitch,F,Saratoga Springs,NY,20,,No,No,,
 431,Sarah,Popovitch,F,Saratoga Springs,NY,22,1608821300,No,Yes,Saratoga Stryders,203
 432,Stephen,Popovitch,M,Saratoga Springs,NY,52,1608850945,No,Yes,Saratoga Stryders,203
-433,Olivia,Popovitch,F,Saratoga Springs,NY,20,,No,No,,
 434,John,Pusateri,M,Castleton,NY,48,1407974276,No,Yes,Castleton Cruisers,309
 435,Tracey,Quinn,F,Delanson,NY,32,,No,No,,
 436,Linda,Quinn,F,Voorheesville,NY,49,,Yes,No,,
@@ -261,18 +261,18 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 460,Neil,Sergott,M,Clifton Park,NY,44,1506404282,Yes,Yes,Saratoga Stryders,203
 461,John J.,Sestito,M,Johnsonville,NY,52,1405749449,Yes,Yes,Adirondack Athletic Club,252
 462,Thomas,Sisson,M,Halfmoon,NY,54,,Yes,No,,
-463,Todd,Smith,M,Voorheesville,NY,42,1407677986,Yes,Yes,Team Utopia,262
 464,Emily,Smith,F,Charlotte,NC,26,,No,No,,
+463,Todd,Smith,M,Voorheesville,NY,42,1407677986,Yes,Yes,Team Utopia,262
 465,william,smith,M,voorheesville,NY,62,,Yes,No,,
 466,Nicole,Soblosky,F,Albany,NY,28,1407032208,Yes,Yes,ARE Racing Team,279
 467,Mike,Soeller,M,Voorheesville,NY,54,,No,No,,
-468,Irene,Somerville,F,Wynantskill,NY,22,,Yes,No,,
 469,Joseph,Somerville,M,Wynantskill,NY,18,,Yes,No,,
+468,Irene,Somerville,F,Wynantskill,NY,22,,Yes,No,,
 470,john,stadtlander,M,Clifton park,NY,50,1406402980,Yes,Yes,Willow Street AC,264
 471,Derrick,Staley,M,Ballston Lake,NY,57,1400333918,Yes,Yes,Willow Street AC,264
 472,Beth,Stalker,F,Burnt Hills,NY,56,1401442759,Yes,Yes,Willow Street AC,264
-473,Mark,Stephenson,M,esperance,NY,52,1508683016,Yes,Yes,Adirondack Athletic Club,252
 474,Lisa,Stephenson,F,esperance,NY,50,,Yes,No,,
+473,Mark,Stephenson,M,esperance,NY,52,1508683016,Yes,Yes,Adirondack Athletic Club,252
 475,Wade,Stockman,M,Rensselaer,NY,81,1401259922,Yes,Yes,Team Utopia,262
 476,Sharon,Strodl,F,Nassau,NY,41,1407697604,Yes,Yes,Adirondack Athletic Club,252
 477,Teri,Strutsrum,F,,,46,,No,,,
@@ -296,16 +296,16 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 495,Fran,Veloce,F,Guilderland,NY,51,,Yes,No,,
 496,Steve,Vnuk,M,Delmar,NY,60,,Yes,No,,
 497,Janet,Wallace,F,Thetford center,VT,48,,No,No,,
-498,Colleen,Walsh,F,Troy,NY,59,1508478128,Yes,Yes,Fleet Feet Sports Running/Walking Club,283
 499,Mary,Walsh,F,Albany,NY,44,,Yes,No,,
+498,Colleen,Walsh,F,Troy,NY,59,1508478128,Yes,Yes,Fleet Feet Sports Running/Walking Club,283
 500,Diane,Ward,F,Albany,NY,58,,Yes,No,,
-28,Ray,Webster,M,Altamont,NY,41,1405190636,No,Yes,ARE Racing Team,279
 37,Nick,Webster,M,Albany,NY,27,1406268860,Yes,Yes,ARE Racing Team,279
-45,Sara,Westcott,F,Castleton,NY,32,,Yes,No,,
+28,Ray,Webster,M,Altamont,NY,41,1405190636,No,Yes,ARE Racing Team,279
 46,John,Westcott,M,Castleton,NY,31,,Yes,No,,
+45,Sara,Westcott,F,Castleton,NY,32,,Yes,No,,
 52,Donovan,White,M,albany,NY,35,,Yes,No,,
-61,Jessica,Whiting,F,Scotia,NY,38,,Yes,No,,
 66,Cade,Whiting,M,Scotia,NY,8,,Yes,No,,
+61,Jessica,Whiting,F,Scotia,NY,38,,Yes,No,,
 69,Bowden,Wise,M,Clifton Park,NY,53,,Yes,No,,
 79,Cara,Wolff,F,Niskayuna,NY,41,,Yes,No,,
 90,Amy,Wright,F,Berne,Ny,38,,Yes,No,,
@@ -314,6 +314,24 @@ bib,first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname_x,clubid
 108,Eric,Young,M,Latham,NY,24,1503574863,Yes,Yes,Fleet Feet Sports Running/Walking Club,283
 110,daniel,zibro,M,waterford,NY,45,,No,No,,
 114,Kristin,Zielinski,F,Altamont,NY,35,,Yes,No,,
-115,Cynthia,Zinzow,F,Sloansville,NY,34,,Yes,No,,
 120,Zachary,Zinzow,M,Sloansville,NY,11,,Yes,No,,
+115,Cynthia,Zinzow,F,Sloansville,NY,34,,Yes,No,,
 134,Christin,Zorda,F,Rotterdam,NY,34,,Yes,No,,
+104,Seth,Engel,M,Satatoga Springs,NY,27,,Yes,No,,
+2,Jim,Finder,M,Latham,NY,68,,Yes ,No,,
+13,Patricia,Carrol,M,Saratoga Springs,NY,24,1407539970,No,Yes,Willow Street AC,
+14,Anny,Stockman,F,Rensselaer,NY,83,1401254922,Yes,Yes,Team Utopia,
+176,Mathew,Nark,M,Albany,NY,42,,Yes,Yes,,
+183,Patrick,Dipierro,M,Cherry Plane,NY,63,,Yes,No,,
+188,Pete,Rowell,M,Albany,NY,27,1406862712,Yes,No,ARE Racing Team,279
+192,Cathy,Soloyna,F,Wyantskill,NY,62,1405912252,,,Saratoga Stryders,279
+175,Chris ,Leavitt,M,Schenectady,NY,28,,Yes,,,
+194,Kathleen,Dougherty,F,Troy,NY,51,,Yes,,,
+198,Lindsay,McConnelee,F,Schenectady,NY,34,,No,No,,
+1601,Peter,Flynn,M,Delmar,NY,39,,No,No,,
+1602,John,Brunner,M,Albany,NY,49,,Yes,No,,
+1603,Tracy,Persons,F,Amsterdam,NY,50,,No,No,,
+1604,Michael,Boisclair,M,Glenville,NY,52,,No,No,,
+1605,John,O'Connor,M,Cohoes,NY,45,,No,No,,
+1606,Mikayla,Barrett,F,Schenectady,NY,17,,No,No,,
+1607,Marcia,Rice,F,Troy,NY,58,,Yes,No,,

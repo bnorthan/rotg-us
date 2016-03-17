@@ -1,297 +1,319 @@
-first,last,gender,city,state,age,usatfnum1,usatfnum2,hmrrc,usatf,clubname,uptodate
-Raymond W.,"Lee, Jr.",M,Halfmoon,NY,74,1400029425,1400029425,Yes,Yes,Adirondack Athletic Club,yes
-Thomas,Dalton,M,Schenectady,NY,57,1400029581,1400029581,No,Yes,Adirondack Athletic Club,yes
-rob,picotte,M,Malta,NY,62,1400510465,1400510465,Yes,Yes,Adirondack Athletic Club,yes
-Chris,Buckley,M,Burnt Hills,NY,54,1400713184,1400713184,Yes,Yes,Adirondack Athletic Club,yes
-Tom,McGuire,M,Slingerlands,NY,64,1402064461,1402064461,Yes,Yes,Adirondack Athletic Club,yes
-Robert,Colborn,M,Schenectady,NY,61,1402519316,1402519316,Yes,Yes,Adirondack Athletic Club,yes
-Bill,Douglas,M,Rensselaer,NY,54,1403557026,1403557026,Yes,Yes,Adirondack Athletic Club,yes
-Thomas,Kracker,M,Delmar,NY,51,1404687913,1404687913,Yes,Yes,Adirondack Athletic Club,yes
-Todd,Mesick,M,Cohoes,NY,48,1405113224,1405113224,Yes,Yes,Adirondack Athletic Club,yes
-Joseph,Richardson,M,Slingerlands,NY,76,1405324912,1405324912,Yes,Yes,Adirondack Athletic Club,yes
-John J.,Sestito,M,Johnsonville,NY,52,1405749449,1405749449,Yes,Yes,Adirondack Athletic Club,yes
-Kevin,Creagan,M,Albany,NY,50,1405953488,1405953488,Yes,Yes,Adirondack Athletic Club,yes
-James,Larkin,M,Clifton park,Ny,68,1406522340,1406522340,Yes,Yes,Adirondack Athletic Club,yes
-Sharon,Strodl,F,Nassau,NY,41,1407697604,1407697604,Yes,Yes,Adirondack Athletic Club,yes
-Dave,Glass,M,Glenville,NY,69,1407805561,1407805561,Yes,Yes,Adirondack Athletic Club,yes
-John,Noonan,M,Ballston Spa,NY,56,1508122080,1508122080,Yes,Yes,Adirondack Athletic Club,yes
-Mark,Stephenson,M,esperance,NY,52,1508683016,1508683016,Yes,Yes,Adirondack Athletic Club,yes
-Andrea,Hollinger,F,East Greenbush,NY,28,1400345524,1400345524,No,Yes,ARE Racing Team,yes
-Elaine,Morris,F,East Greenbush,NY,63,1400857478,1400857478,Yes,Yes,ARE Racing Team,yes
-Lisa,D'Aniello,F,Albany,NY,29,1402009524,,Yes,Yes,ARE Racing Team,no
-Aaron,Knobloch,M,Niskayuna,NY,39,1404219428,1404219428,Yes,Yes,ARE Racing Team,yes
-Ray,Webster,M,Altamont,NY,41,1405190636,1405190636,No,Yes,ARE Racing Team,yes
-Joe,Yavonditte,M,Schenectady,NY,67,1405902832,1405902832,Yes,Yes,ARE Racing Team,yes
-Nick,Webster,M,Albany,NY,27,1406268860,1406268860,Yes,Yes,ARE Racing Team,yes
-Aaron,Lozier,M,Albany,NY,27,1406882686,1406882686,No,Yes,ARE Racing Team,yes
-Nicole,Soblosky,F,Albany,NY,28,1407032208,1407032208,Yes,Yes,ARE Racing Team,yes
-Tina,Greene,F,Scotia,NY,42,1407430659,1407430659,No,Yes,ARE Racing Team,yes
-Amy,Babeu,F,Guilderland,NY,23,1508133079,1508133079,Yes,Yes,ARE Racing Team,yes
-Shaun,Donegan,M,Malta,NY,30,1508312871,1508312871,,Yes,ARE Racing Team,yes
-Michael,DiNicola,M,Albany,NY,41,1608890370,1608890370,Yes,Yes,ARE Racing Team,yes
-John,Pusateri,M,Castleton,NY,48,1407974276,1407974276,No,Yes,Castleton Cruisers,yes
-Meaghan,Podlaski,F,Niskayuna,NY,18,1406957041,1406957041,No,Yes,Fleet Feet Sports Running/Walking Club,yes
-Eric,Young,M,Latham,NY,24,1503574863,1503574863,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Hillary,Johnson,F,Albany,NY,29,1508162276,1508162276,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Peter,Fish,M,Castleton,NY,57,1508222351,1508222351,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Perry,Gava,M,Clifton Park,NY,57,1508223805,1508223805,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Diane,Thompson,F,Latham,NY,61,1508361399,1508361399,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Jeffrey,Mullen,M,Ballston Lake,NY,33,1508468749,1508468749,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Colleen,Walsh,F,Troy,NY,59,1508478128,1508478128,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Frederick,Kopff,M,Guilderland,NY,47,1608898852,1608898852,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes
-Nina,Lynch,F,Clifton Park,NY,35,1608900740,1608900740,No,Yes,Fleet Feet Sports Running/Walking Club,yes
-Jonathan,Golden,M,Slingerlands,NY,42,1406279172,1406279172,Yes,Yes,Hudson Mohawk Road Runners Club,yes
-Kim,Law,F,East Greenbush,NY,58,1407579570,1407579570,Yes,Yes,Hudson Mohawk Road Runners Club,yes
-George,Baranauskas,M,Scotia,NY,61,1508309760,1508309760,Yes,Yes,Hudson Mohawk Road Runners Club,yes
-Karen,Dolge,F,Valatie,NY,45,1401031495,1401031495,Yes,Yes,Kinderhook Runners Club,yes
-Renee,Tolan,F,Clifton Park,NY,41,1406055051,1406055051,No,Yes,Kinetic Running Club,yes
-Erin,Corcoran,F,Schenectady,NY,41,1407245123,1407245123,Yes,Yes,Kinetic Running Club,yes
-Jennifer,Bennice,F,Ballston Lake,NY,37,1508121314,1508121314,Yes,Yes,Kinetic Running Club,yes
-Lauren,Herbs,F,Rexford,NY,53,1405253749,1405253749,Yes,Yes,Saratoga Stryders,yes
-Mary,Fenton,F,Ballston spa,NY,50,1405257682,1405257682,Yes,Yes,Saratoga Stryders,yes
-Samuel,Mercado,M,Albany,NY,53,1405268317,1405268317,Yes,Yes,Saratoga Stryders,yes
-Thomas,Rest,M,Clifton Park,NY,55,1406943892,1406943892,Yes,Yes,Saratoga Stryders,yes
-Anthony,Lupo,M,Saratoga Springs,NY,53,1407606696,1407606696,Yes,Yes,Saratoga Stryders,yes
-Virginia,Larner,F,Malta,NY,44,1407607330,1407607330,Yes,Yes,Saratoga Stryders,yes
-William,Drapeau,M,Glenville,NY,48,1407930971,1407930971,Yes,Yes,Saratoga Stryders,yes
-Doreen,Buell,F,Troy,NY,59,1505824969,1505824969,Yes,Yes,Saratoga Stryders,yes
-Neil,Sergott,M,Clifton Park,NY,44,1506404282,1506404282,Yes,Yes,Saratoga Stryders,yes
-Tom,Law,M,Saratoga Springs,NY,44,1608819650,1608819650,No,Yes,Saratoga Stryders,yes
-Hilary,Claggett,F,Saratoga Springs,NY,51,1608820716,1608820716,Yes,Yes,Saratoga Stryders,yes
-Olivia,Popovitch,F,Saratoga Springs,NY,20,,,No,No,,yes
-Stephen,Popovitch,M,Saratoga Springs,NY,52,1608850945,1608850945,No,Yes,Saratoga Stryders,yes
-Richard,Loud,M,Ballston Spa,NY,51,1608902431,1608902431,No,Yes,Saratoga Stryders,yes
-Todd,Smith,M,Voorheesville,NY,42,1407677986,1407677986,Yes,Yes,Team Utopia,no
-Wade,Stockman,M,Rensselaer,NY,81,1401259922,1401259922,Yes,Yes,Team Utopia,yes
-Jon,Rocco,M,Colonie,NY,49,1401874845,1401874845,Yes,Yes,Team Utopia,yes
-nancy,Taormina,F,Albany,NY,56,1404842617,1404842617,Yes,Yes,Team Utopia,yes
-Stephen,Montanaro,M,Hagaman,NY,50,1405334614,1405334614,Yes,Yes,Team Utopia,yes
-David,Rowell,M,Albany,NY,63,1405657881,1405657881,Yes,Yes,Team Utopia,yes
-Ben,Heller,M,Albany,NY,27,1407697158,1407697158,Yes,Yes,Team Utopia,yes
-Emily,Bryans,F,Delanson,NY,48,1400030571,1400030571,Yes,Yes,Willow Street AC,yes
-Martha C.,DeGrazia,F,Slingerlands,NY,65,1400030795,1400030795,Yes,Yes,Willow Street AC,yes
-Nancy,Nicholson,F,Queensbury,NY,53,1400031132,1400031132,Yes,Yes,Willow Street AC,yes
-Beth,Stalker,F,Burnt Hills,NY,56,1401442754,,Yes,Yes,Willow Street AC,yes
-Chuck,Terry,M,Albany,NY,33,1402721458,1402721458,Yes,Yes,Willow Street AC,yes
-Mary,Buck,F,Mechanicville,NY,52,1403193491,1403193491,Yes,Yes,Willow Street AC,yes
-Volker,Burkowski,M,Gansevoort,NY,44,1403738154,1403738154,Yes,Yes,Willow Street AC,yes
-Alex,Benway,M,Saratoga Springs,NY,25,1403887639,1403887639,No,Yes,Willow Street AC,yes
-Liz,Chauhan,F,Albany,NY,31,1405924349,1405924349,Yes,Yes,Willow Street AC,yes
-Sally,Drake,F,Albany,NY,43,1406376473,,Yes,Yes,Willow Street AC,no
-john,stadtlander,M,Clifton park,NY,50,1406402980,1406402980,Yes,Yes,Willow Street AC,yes
-Kari,Deer,F,Slingerlands,NY,37,1406697241,1406697241,Yes,Yes,Willow Street AC,yes
-Colleen,Brackett,F,Albany,NY,56,1407544798,1407544798,Yes,Yes,Willow Street AC,yes
-Hannah,Brooker,F,Albany,NY,24,1508665237,1508665237,No,Yes,Willow Street AC,yes
-Mollie,Turner,F,Averill Park,NY,36,1600598229,1600598229,Yes,Yes,Willow Street AC,yes
-Melanie,Redfield,F,Albany,NY,23,1608820567,1608820567,No,Yes,Willow Street AC,yes
-Macky,Lloyd,M,Albany,NY,25,,,No,Yes,Willow Street AC,no
-Mark,Lansing,M,Niskayuna,NY,39,30523780,,Yes,No,,no
-Chester,Tumidajewicz,M,Amsterdam,NY,61,1400029383,1400029383,,Yes,,yes
-Lee,Pollock,M,Queensbury,NY,63,1401820780,1401820780,Yes,Yes,,yes
-Eiko,Bogue,F,Schaghticoke,NY,78,1401963523,,Yes,Yes,,no
-Allison,Bradley,F,Albany,NY,40,1407197456,,Yes,Yes,,no
-Rebecca,Tennyson,F,Troy,NY,33,1407500980,1407500980,Yes,Yes,,yes
-Kristen,Hislop,F,Clifton Park,NY,50,1407504008,,Yes,Yes,,no
-Bob,Giambalvo,M,Delhi,NY,66,1501447229,1501447229,Yes,Yes,,yes
-Paul,Cirillo,M,Mohawk,NY,40,1608841837,1608841837,No,Yes,,yes
-David,Roy,M,Schoharie,NY,61,1608853329,1608853329,Yes,Yes,,yes
-David,Roy,M,Schoharie,NY,61,1608853329,1608853329,Yes,Yes,,
-Kathleen,Beeman,F,Niskayuna,NY,55,,,Yes,No,,
-Jill,Penn,F,Colonie,Ny,46,,,No,No,,
-Maria,Schollenberger,F,Delmar,NY,58,,,Yes,,,
-Christin,Zorda,F,Rotterdam,NY,34,,,Yes,No,,
-Janet,Wallace,F,Thetford center,VT,48,,,No,No,,
-Valerie,Pezzula,F,Albany,NY,61,,,Yes,No,,
-Alicia,Gillen,F,Altamont,NY,46,,,Yes,No,,
-Libbie,Craft,F,Selkirk,NY,39,,,No,No,,
-Teri,Strutsrum,F,,,46,,,No,,,
-Mary,Insogna,F,Scotia,NY,43,,,Yes,No,,
-Erika,Oesterle,F,Stamford,NY,64,,,Yes,No,,
-Ann,McAvoy,F,Albany,NY,49,,,No,No,,
-Karen,Gerstenberger,F,Albany,NY,58,,,Yes,No,,
-Diane,Ward,F,Albany,NY,58,,,Yes,No,,
-Debra,Kelley,F,albany,NY,62,,,Yes,No,,
-Katherine,Jones,F,Averill Park,NY,56,,,Yes,No,,
-Lara,Comithier,F,Greenville,NY,48,,,Yes,No,,
-Stephanie,Landy,F,Malta,NY,56,,,Yes,No,,
-Jennifer,Rittner,F,Rotterdam,NY,44,,,Yes,No,,
-Laura,Rickmyre,F,Schenectady,NY,32,,,No,No,,
-Kelly,Sullivan,F,Schenectady,NY,37,,,Yes,No,,
-Annemarie,Garceau,F,WATERVLIET,NY,46,,,Yes,No,,
-Michelle,Davis,F,Watervliet,NY,27,,,Yes,No,,
-Lynn,Hansen,F,Wynantskill,NY,42,,,Yes,No,,
-Emily,Smith,F,Charlotte,NC,26,,,No,No,,
-Emily,Taft,F,Albany,NY,25,,,No,No,,
-Anne,Tyrrell,F,Albany,NY,65,,,Yes,No,,
-Mary,Walsh,F,Albany,NY,44,,,Yes,No,,
-Megan,Baldwin,F,Albany,NY,32,,,Yes,No,,
-Nicole,Niles,F,Albany,NY,39,,,Yes,No,,
-Kelly,Ryan,F,Albany,NY,36,,,Yes,No,,
-Shannon,Pinkowski,F,Albany,NY,40,,,Yes,No,,
-Mary Ann,Macri,F,Albany,NY,64,,,Yes,No,,
-Mindy,Mackesey,F,Altamont,NY,52,,,,,,
-Susan,Klim,F,altamont,NY,60,,,Yes,No,,
-Kristin,Zielinski,F,Altamont,NY,35,,,Yes,No,,
-Krystle,Hutchison,F,Amsterdam,NY,23,,,No,No,,
-DEIRDRE,SALERNO,F,AMSTERDAM,NY,43,,,No,No,,
-Heather,Kosnick,F,Ballston Spa,NY,41,,,Yes,No,,
-Amy,Wright,F,Berne,Ny,38,,,Yes,No,,
-Jessica,Bashaw,F,Cambridge,NY,33,,,No,No,,
-Sara,Westcott,F,Castleton,NY,32,,,Yes,No,,
-Brenda,Fish,F,Castleton,NY,49,,,Yes,No,,
-Kelsey,Barbour,F,Clifton Park,NY,23,,,No,No,,
-Lisa,Ryan,F,Clifton Park,NY,46,,,No,No,,
-Eleonora,Morrell,F,Clifton Park,NY,47,,,Yes,No,,
-Courtney,Hill,F,Clifton Park,NY,31,,,Yes,No,,
-Brittany,Desiato,F,Clifton Park,NY,22,,,Yes,No,,
-Kelli,Driessen,F,Cohoes,NY,28,,,Yes,No,,
-Carrie Leigh,Genito,F,Cohoes,NY,44,,,Yes,No,,
-Tracey,Quinn,F,Delanson,NY,32,,,No,No,,
-Katherine,Ambrosio,F,Delmar,NY,65,,,,,,
-Lisa,Stephenson,F,esperance,NY,50,,,Yes,No,,
-Teresa,Grant,F,Glenmont,NY,43,,,Yes,No,,
-Cathy,McCutcheon,F,Guilderland,NY,52,,,Yes,No,,
-Fran,Veloce,F,Guilderland,NY,51,,,Yes,No,,
-Lynn,Farruggia,F,Halfmoon,NY,47,,,Yes,No,,
-Lizzie,Redkey,F,Latham,NY,46,,,Yes,No,,
-Sherry,Ringwood,F,Mechanicville,NY,51,,,Yes,No,,
-Amanda,Serafini,F,Nassau,NY,44,1404603639,1404603639,Yes,No,,
-Cara,Wolff,F,Niskayuna,NY,41,,,Yes,No,,
-Kristine,Clarke,F,Niskayuna,NY,51,,,Yes,No,,
-Shannon,Bishop,F,Rensselaer,NY,44,,,Yes,No,,
-Sherrri,Pignetti,F,rotterdam junction,NY,52,,,Yes,No,,
-Samantha,McBee,F,Saratoga Springs,NY,30,,1407590254,Yes,Yes,Team Utopia,yes
-Lynne,Neeley,F,Schenectady,NY,52,,,Yes,No,,
-Elizabeth,Burke,F,Schenectady,NY,26,,,Yes,No,,
-Margaret,Burke,F,Schenectady,NY,52,,,Yes,No,,
-Rebecca,McMillen,F,Schenectady,NY,42,,,No,No,,
-Maria,Morales,F,Schenectady,NY,31,,,No,No,,
-Julia,Flower,F,Schenectady,NY,17,1507491940,,Yes,Yes,Kinetic Running Club,yes
-Rachel,Brunez,F,Scotia,NY,26,,,No,No,,
-Jessica,Whiting,F,Scotia,NY,38,,,Yes,No,,
-Kate,Bellotti,F,Scotia,NY,39,,,No,No,,
-Dee,Fisher-Golden,F,Slingerlands,NY,45,,,Yes,No,,
-Uzma,Qureshi,F,Slingerlands,NY,54,,,Yes,No,,
-Linda,Quinn,F,Voorheesville,NY,49,,,Yes,No,,
-Lori,Francesconi,F,Waterford,NY,54,,,Yes,No,,
-Irene,Somerville,F,Wynantskill,NY,22,,,Yes,No,,
-Alison,Hosier,F,Albany,NY,33,,,No,No,,
-Kelly,Gillen,F,Altamont,NY,48,,,Yes,No,,
-Tara,Joyce,F,Altamont,NY,27,,,Yes,No,,
-Kim,DeMagistris,F,Clifton Park,NY,29,,,Yes,No,,
-Cheryl,Hutchinson,F,Clifton Park,NY,49,,,Yes,No,,
-Marie,Arrao,F,Clifton Park,NY,60,,,Yes,No,,
-Melanie,Capron,F,Duanesburg,NY,40,,,Yes,,,
-Brian,Daviero,F,Duanesburg,NY,39,,,Yes,No,,
-Patricia,Daviero,F,Duanesburg,NY,40,,,Yes,No,,
-Wendy,Colonno,F,Glenmont,NY,39,,,Yes,No,,
-Ashley,Benincasa,F,Glenville,NY,32,,,No,No,,
-Sarah,Popovitch,F,Saratoga Springs,NY,22,1608821300,1608821300,No,Yes,Saratoga Stryders,
-mary kay,scott,F,schenectady,NY,55,,,Yes,No,,
-Kimberly,Furnish,F,Scotia,NY,43,,,Yes,No,,
-Tara,Curran,F,Selkirk,NY,38,,,Yes,No,,
-Barbara,Bradley,F,Slingerlands,NY,58,,,Yes,No,,
-Nicole,Cox,F,"Troy, Ny",NY,25,,,Yes,No,,
-GARY,LONGHI,M,VOORHEESVILLE,NY,52,,,No,No,,
-Joshua,DiPierro,M,Cherry Plane,NY,40,,,No,No,,
-George,Penn,M,Colonie,Ny,47,,,No,No,,
-Joe,Casholle,M,Duanesburg,NY,16,,,No,No,,
-Jeffrey,Danzy,M,Schenectady,NY,52,,,No,,,
-Alan,Finder,M,Albany,NY,27,,,Yes,No,,
-Michael,DellaRocco,M,Altamont,NY,64,,,Yes,No,,
-Stephen P.,Jones,M,Averill Park,NY,61,,,Yes,No,,
-Matthew,Fryer,M,clifton park,NY,35,,,Yes,No,,
-Richard,Ernst,M,Delmar,NY,59,,,Yes,No,,
-Timothy,Fioretti,M,Gloversville,NY,40,,,Yes,No,,
-Mike,Becker,M,Niskayuna,NY,52,,,Yes,No,,
-Richard,Baker,M,Rensselaer,NY,41,,,Yes,No,,
-Thomas,Kollar,M,Schenectady,NY,70,,,Yes,No,,
-Daniel,McConnelee,M,Schenectady,NY,36,,,No,No,,
-Joseph,Sullivan,M,Schenectady,NY,37,,,Yes,No,,
-Douglas L,Browning Jr,M,Tribes Hill,NY,53,,,Yes,No,,
-Joseph,Somerville,M,Wynantskill,NY,18,,,Yes,No,,
-Alec,Hansen,M,Wynantskill,NY,10,,,Yes,No,,
-Colin,Hansen,M,Wynantskill,NY,12,,,Yes,No,,
-Sunil,Kumta,M,Schenectady,NY,52,,,Yes,Yes,,
-Ray,Newkirk,M,Albany,NY,71,,,Yes,Yes,Willow Street AC,
-Timothy J.,Mackesey,M,Altamont,NY,58,,,Yes,No,,
-Jamie,Casline,M,Ballston Lake,NY,56,,,Yes,No,,
-Michael,Paglialonga,M,Castleton,NY,32,,,No,No,,
-John,Westcott,M,Castleton,NY,31,,,Yes,No,,
-Leo J.,DiPierro,M,Cherry Plane,NY,65,,,Yes,No,,
-Richard D.,Hamlin,M,Chichester,NY,43,,,Yes,No,,
-Andy,Timbrook,M,Cohoes,NY,27,,,Yes,No,,
-Patrick,Hilt,M,Colonie,NY,18,,,Yes,No,,
-Leland,Hilt,M,Colonie,NY,59,,,Yes,No,,
-Paul,Forbes,M,colonie,NY,65,,,Yes,No,,
-Mike,Langevin,M,Colonie,NY,51,,,Yes,No,,
-Steve,Vnuk,M,Delmar,NY,60,,,Yes,No,,
-Kevin,Baker,M,Glenmont,NY,47,,,Yes,No,,
-Brian,Teague,M,Glens Falls,NY,57,,,Yes,No,,
-Gerald,Parkes,M,Glenville,NY,51,,,No,No,,
-Frank,Mueller,M,Glenville,NY,56,,,Yes,No,,
-Daniel,Jordy,M,Glenville,NY,32,1404600403,,No,Yes,Willow Street AC,
-Robert,Irwin,M,guilderland,NY,43,,1404603639,Yes,Yes,Willow Street AC,yes
-Thomas,Sisson,M,Halfmoon,NY,54,,,Yes,No,,
-Roy,Mowrey,M,Johnstown,NY,57,,,No,No,,
-Eric,Parker,M,Johnstown,NY,60,,,No,No,,
-Tim,Perry-Coon,M,Latham,NY,60,,,Yes,No,,
-Shig,Hosoyama,M,Latham,NY,48,,,Yes,No,,
-Gregory,Bentley,M,Loudonville,NY,38,,,Yes,No,,
-Joseph A.,Kelly,M,Menands,NY,82,,,Yes,No,,
-John,Dziezynski,M,Niskayuna,NY,51,,,Yes,No,,
-Patrick,DiCerbo,M,Niskayuna,NY,49,,,No,No,,
-Steve,Johnston,M,Niskayuna,NY,65,,,Yes,No,,
-Eric,Gould,M,Rensselaer,NY,37,,,No,No,,
-Patrick,Dugan,M,Rexford,NY,37,,,Yes,No,,
-Pete,Cowie,M,Rotterdam,NY,68,,,Yes,No,,
-Jason,DiPierro,M,Schenectady,NY,41,,,Yes,,,
-Dave,Cole,M,Schenectady,NY,58,,,Yes,,,
-Rich,Burke,M,Schenectady,NY,52,,,Yes,No,,
-William,Dodds,M,Schenectady,NY,41,,,Yes,No,,
-John F.,Parisella,M,Schenectady,NY,58,,,Yes,Yes,Team Utopia,
-Peter,Butryn,M,Schenectady,NY,58,,,Yes,No,,
-Holden,Maynard,M,Schenectady,NY,16,,,Yes,No,,
-Steve,Maynard,M,Schenectady,NY,40,,,Yes,No,,
-Cade,Whiting,M,Scotia,NY,8,,,Yes,No,,
-Ralph,Feinstein,M,Scotia,NY,62,,,Yes,No,,
-Cade,Whiting,M,Scotia,NY,8,,,Yes,No,,
-John,Deer,M,Slingerlands,NY,33,,,Yes,No,,
-Mark F.,Fleszar,M,Troy,NY,,,,,,,
-Frank,gwinn,M,Troy,NY,42,,,No,No,,
-Chuck,DeCitise,M,Troy,NY,45,,,Yes,No,,
-Frank,gwinn,M,Troy,NY,42,,,No,No,,
-Mike,Soeller,M,Voorheesville,NY,54,,,No,No,,
-Jay,Quinn,M,Voorheesville,NY,51,,,Yes,No,,
-william,smith,M,voorheesville,NY,62,,,Yes,No,,
-daniel,zibro,M,waterford,NY,45,,,No,No,,
-Eric,Clark,M,Waterford,NY,52,,,Yes,No,,
-Martin,Patrick,M,East Greenbush,NY,62,,,Yes,No,,
-Donovan,White,M,albany,NY,35,,,Yes,No,,
-Jeff,Long,M,Albany,NY,32,,,Yes,No,,
-Bowden,Wise,M,Clifton Park,NY,53,,,Yes,No,,
-Joshua,Katzman,M,Clifton Park,NY,40,,,Yes,No,,
-Daniel,Brady,M,Cohoes,NY,39,,,Yes,Yes,,
-joshua,O'Connor,M,Delanson,NY,40,,,Yes,No,,
-Christian W.,Lietzau,M,Delmar,NY,53,,,Yes,No,,
-Garrett,McCann,M,Glenmont,NY,55,,,Yes,No,,
-Christopher,Fischer,M,Latham,NY,39,,,Yes,No,,
-Richard,Baker,M,Rensselaer,NY,41,,,Yes,No,,
-cory,gregg,M,schenectady,NY,35,,,No,No,,
-Richard,Kelly,M,Schenectady,NY,59,,,Yes,No,,
-DJ,Hansen,M,Wynantskill,NY,42,,,Yes,No,,
-Gene,Reilly,M,Albany,NY,65,,,Yes,,,
-David,Strutsrum,M,Delmar,NY,46,,,No,,,
-Melissa,Gordon,F,Troy,NY,37,,,Yes,No,,
-Susan,Huston,F,Troy,NY,54,,,Yes,No,,
-Marge,Rajczewski,F,Ballston Lake,NY,75,1404598565,,Yes,Yes,Saratoga Stryders,
-Danielle,Maslowsky,F,Ballston Lake,NY,37,1406257921,,Yes,Yes,,
-Kerry,Flower,F,Schenectady,NY,15,,,,,,
-Melissa,Tiberio,F,Scotia,NY,29,,,Yes,No,,
-Jeff,Clark,M,Glenmont,NY,58,,,Yes,No,,
-Kyle D.,Ordway,M,Albany,NY,40,,,Yes,No,,
-Ray,Scaringe,M,Clifton Park,NY,61,1406833598,,Yes,Yes,Adirondack Athletic Club,
-William,Hamel,M,Clifton park,NY,44,1508697263,,No,Yes,Adirondack Athletic Club,
-Michael,Sweeney,M,Amsterdam,NY,15,,,No,No,,
-Andrew,Krupski,M,Ballston spa,NY,25,,,Yes,No,,
-Tom,Tiberio,M,Scotia,NY,30,,,Yes,No,,
+first,last,gender,city,state,age,usatfnum,hmrrc,usatf,clubname,uptodate,paid
+Raymond W.,"Lee, Jr.",M,Halfmoon,NY,74,1400029425,Yes,Yes,Adirondack Athletic Club,yes,yes
+Thomas,Dalton,M,Schenectady,NY,57,1400029581,No,Yes,Adirondack Athletic Club,yes,yes
+rob,picotte,M,Malta,NY,62,1400510465,Yes,Yes,Adirondack Athletic Club,yes,yes
+Chris,Buckley,M,Burnt Hills,NY,54,1400713184,Yes,Yes,Adirondack Athletic Club,yes,yes
+Christopher,Rush,M,Schenectady,NY,79,1401406259,Yes,Yes,Adirondack Athletic Club,,yes
+Tom,McGuire,M,Slingerlands,NY,64,1402064461,Yes,Yes,Adirondack Athletic Club,yes,yes
+Robert,Colborn,M,Schenectady,NY,61,1402519316,Yes,Yes,Adirondack Athletic Club,yes,yes
+Bill,Douglas,M,Rensselaer,NY,54,1403557026,Yes,Yes,Adirondack Athletic Club,yes,yes
+Thomas,Kracker,M,Delmar,NY,51,1404687913,Yes,Yes,Adirondack Athletic Club,yes,yes
+Todd,Mesick,M,Cohoes,NY,48,1405113224,Yes,Yes,Adirondack Athletic Club,yes,yes
+Joseph,Richardson,M,Slingerlands,NY,76,1405324912,Yes,Yes,Adirondack Athletic Club,yes,yes
+John J.,Sestito,M,Johnsonville,NY,52,1405749449,Yes,Yes,Adirondack Athletic Club,yes,yes
+Kevin,Creagan,M,Albany,NY,50,1405953488,Yes,Yes,Adirondack Athletic Club,yes,yes
+Tim,Leonard,M,Clifton Park,NY,67,1406349512,Yes,Yes,Adirondack Athletic Club,,yes
+James,Larkin,M,Clifton park,Ny,68,1406522340,Yes,Yes,Adirondack Athletic Club,yes,yes
+Ray,Scaringe,M,Clifton Park,NY,61,1406833598,Yes,Yes,Adirondack Athletic Club,,yes
+Kristen,Hislop,F,Clifton Park,NY,50,1407504008,Yes,Yes,Adirondack Athletic Club,no,yes
+Sharon,Strodl,F,Nassau,NY,41,1407697604,Yes,Yes,Adirondack Athletic Club,yes,yes
+Dave,Glass,M,Glenville,NY,69,1407805561,Yes,Yes,Adirondack Athletic Club,yes,yes
+John,Noonan,M,Ballston Spa,NY,56,1508122080,Yes,Yes,Adirondack Athletic Club,yes,yes
+Mark,Stephenson,M,esperance,NY,52,1508683016,Yes,Yes,Adirondack Athletic Club,yes,yes
+William,Hamel,M,Clifton park,NY,44,1508697263,No,Yes,Adirondack Athletic Club,,yes
+Andrea,Hollinger,F,East Greenbush,NY,28,1400345524,No,Yes,ARE Racing Team,yes,yes
+Elaine,Morris,F,East Greenbush,NY,63,1400857478,Yes,Yes,ARE Racing Team,yes,yes
+Lisa,D'Aniello,F,Albany,NY,29,1402009524,Yes,Yes,ARE Racing Team,no,yes
+Aaron,Knobloch,M,Niskayuna,NY,39,1404219428,Yes,Yes,ARE Racing Team,yes,yes
+Ray,Webster,M,Altamont,NY,41,1405190636,No,Yes,ARE Racing Team,yes,yes
+Joe,Yavonditte,M,Schenectady,NY,67,1405902832,Yes,Yes,ARE Racing Team,yes,yes
+Nick,Webster,M,Albany,NY,27,1406268860,Yes,Yes,ARE Racing Team,yes,yes
+Aaron,Lozier,M,Albany,NY,27,1406882686,No,Yes,ARE Racing Team,yes,yes
+Nicole,Soblosky,F,Albany,NY,28,1407032208,Yes,Yes,ARE Racing Team,yes,yes
+Tina,Greene,F,Scotia,NY,42,1407430659,No,Yes,ARE Racing Team,yes,yes
+Amy,Babeu,F,Guilderland,NY,23,1508133079,Yes,Yes,ARE Racing Team,yes,yes
+Shaun,Donegan,M,Malta,NY,30,1508312871,,Yes,ARE Racing Team,yes,yes
+Denis,Samburskiy,M,Saratoga Springs,NY,33,1508532437,Yes,Yes,ARE Racing Team,,yes
+Michael,DiNicola,M,Albany,NY,41,1608890370,Yes,Yes,ARE Racing Team,yes,yes
+John,Pusateri,M,Castleton,NY,48,1407974276,No,Yes,Castleton Cruisers,yes,yes
+Meaghan,Podlaski,F,Niskayuna,NY,18,1406957041,No,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Eric,Young,M,Latham,NY,24,1503574863,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Hillary,Johnson,F,Albany,NY,29,1508162276,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Peter,Fish,M,Castleton,NY,57,1508222351,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Jamie,Casline,M,Ballston Lake,NY,56,1508222385,Yes,No,Fleet Feet Sports Running/Walking Club,,yes
+Perry,Gava,M,Clifton Park,NY,57,1508223805,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Diane,Thompson,F,Latham,NY,61,1508361399,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Jeffrey,Mullen,M,Ballston Lake,NY,33,1508468749,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Colleen,Walsh,F,Troy,NY,59,1508478128,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Frederick,Kopff,M,Guilderland,NY,47,1608898852,Yes,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Anne,Miralles,F,Rensselaer,NY,48,1608900591,Yes,Yes,Fleet Feet Sports Running/Walking Club,no,yes
+Nina,Lynch,F,Clifton Park,NY,35,1608900740,No,Yes,Fleet Feet Sports Running/Walking Club,yes,yes
+Jonathan,Golden,M,Slingerlands,NY,42,1406279172,Yes,Yes,Hudson Mohawk Road Runners Club,yes,yes
+Kim,Law,F,East Greenbush,NY,58,1407579570,Yes,Yes,Hudson Mohawk Road Runners Club,yes,yes
+George,Baranauskas,M,Scotia,NY,61,1508309760,Yes,Yes,Hudson Mohawk Road Runners Club,yes,yes
+Karen,Dolge,F,Valatie,NY,45,1401031495,Yes,Yes,Kinderhook Runners Club,yes,yes
+Renee,Tolan,F,Clifton Park,NY,41,1406055051,No,Yes,Kinetic Running Club,yes,yes
+Erin,Corcoran,F,Schenectady,NY,41,1407245123,Yes,Yes,Kinetic Running Club,yes,yes
+Julia,Flower,F,Schenectady,NY,17,1507491940,Yes,Yes,Kinetic Running Club,yes,yes
+Jennifer,Bennice,F,Ballston Lake,NY,37,1508121314,Yes,Yes,Kinetic Running Club,yes,yes
+Marge,Rajczewski,F,Ballston Lake,NY,75,1404598565,Yes,Yes,Saratoga Stryders,,yes
+Lauren,Herbs,F,Rexford,NY,53,1405253749,Yes,Yes,Saratoga Stryders,yes,yes
+Mary,Fenton,F,Ballston spa,NY,50,1405257682,Yes,Yes,Saratoga Stryders,yes,yes
+Samuel,Mercado,M,Albany,NY,53,1405268317,Yes,Yes,Saratoga Stryders,yes,yes
+Thomas,Rest,M,Clifton Park,NY,55,1406943892,Yes,Yes,Saratoga Stryders,yes,yes
+Anthony,Lupo,M,Saratoga Springs,NY,53,1407606696,Yes,Yes,Saratoga Stryders,yes,yes
+Virginia,Larner,F,Malta,NY,44,1407607330,Yes,Yes,Saratoga Stryders,yes,yes
+William,Drapeau,M,Glenville,NY,48,1407930971,Yes,Yes,Saratoga Stryders,yes,yes
+Doreen,Buell,F,Troy,NY,59,1505824969,Yes,Yes,Saratoga Stryders,yes,yes
+Neil,Sergott,M,Clifton Park,NY,44,1506404282,Yes,Yes,Saratoga Stryders,yes,yes
+Tom,Law,M,Saratoga Springs,NY,44,1608819650,No,Yes,Saratoga Stryders,yes,yes
+Hilary,Claggett,F,Saratoga Springs,NY,51,1608820716,Yes,Yes,Saratoga Stryders,yes,yes
+Sarah,Popovitch,F,Saratoga Springs,NY,22,1608821300,No,Yes,Saratoga Stryders,,yes
+Stephen,Popovitch,M,Saratoga Springs,NY,52,1608850945,No,Yes,Saratoga Stryders,yes,yes
+Richard,Loud,M,Ballston Spa,NY,51,1608902431,No,Yes,Saratoga Stryders,yes,yes
+Wade,Stockman,M,Rensselaer,NY,81,1401259922,Yes,Yes,Team Utopia,yes,yes
+Jon,Rocco,M,Colonie,NY,49,1401874845,Yes,Yes,Team Utopia,yes,yes
+nancy,Taormina,F,Albany,NY,56,1404842617,Yes,Yes,Team Utopia,yes,yes
+Stephen,Montanaro,M,Hagaman,NY,50,1405334614,Yes,Yes,Team Utopia,yes,yes
+David,Rowell,M,Albany,NY,63,1405657881,Yes,Yes,Team Utopia,yes,yes
+Kirsten,LeBlanc,F,broadalbin,NY,52,1405898311,Yes,Yes,Team Utopia,,no
+Allison,Bradley,F,Albany,NY,40,1407197456,Yes,Yes,Team Utopia,no,yes
+Samantha,McBee,F,Saratoga Springs,NY,30,1407590254,Yes,Yes,Team Utopia,yes,yes
+Todd,Smith,M,Voorheesville,NY,42,1407677986,Yes,Yes,Team Utopia,no,yes
+Ben,Heller,M,Albany,NY,27,1407697158,Yes,Yes,Team Utopia,yes,yes
+John F.,Parisella,M,Schenectady,NY,58,1608905293,Yes,Yes,Team Utopia,,yes
+Dallas,DeVries,M,Cohoes,NY,38,1605727757,Yes,Yes,Team Utopia,,yes
+Emily,Bryans,F,Delanson,NY,48,1400030571,Yes,Yes,Willow Street AC,yes,yes
+Martha C.,DeGrazia,F,Slingerlands,NY,65,1400030795,Yes,Yes,Willow Street AC,yes,yes
+Nancy,Nicholson,F,Queensbury,NY,53,1400031132,Yes,Yes,Willow Street AC,yes,yes
+Derrick,Staley,M,Ballston Lake,NY,57,1400333918,Yes,Yes,Willow Street AC,,yes
+Beth,Stalker,F,Burnt Hills,NY,56,1401442754,Yes,Yes,Willow Street AC,yes,yes
+Chuck,Terry,M,Albany,NY,33,1402721458,Yes,Yes,Willow Street AC,yes,yes
+Mary,Buck,F,Mechanicville,NY,52,1403193491,Yes,Yes,Willow Street AC,yes,yes
+Volker,Burkowski,M,Gansevoort,NY,44,1403738154,Yes,Yes,Willow Street AC,yes,yes
+Alex,Benway,M,Saratoga Springs,NY,25,1403887639,No,Yes,Willow Street AC,yes,yes
+Daniel,Jordy,M,Glenville,NY,32,1404600403,No,Yes,Willow Street AC,,yes
+Robert,Irwin,M,guilderland,NY,43,1404603639,Yes,Yes,Willow Street AC,yes,yes
+Liz,Chauhan,F,Albany,NY,31,1405924349,Yes,Yes,Willow Street AC,yes,yes
+Danielle,Maslowsky,F,Ballston Lake,NY,37,1406257921,Yes,Yes,Willow Street AC,,yes
+Sally,Drake,F,Albany,NY,43,1406376473,Yes,Yes,Willow Street AC,no,yes
+john,stadtlander,M,Clifton park,NY,50,1406402980,Yes,Yes,Willow Street AC,yes,yes
+Kari,Deer,F,Slingerlands,NY,37,1406697241,Yes,Yes,Willow Street AC,yes,yes
+Frank,horn,M,Albany,NY,46,1406850998,Yes,Yes,Willow Street AC,,yes
+Colleen,Brackett,F,Albany,NY,56,1407544798,Yes,Yes,Willow Street AC,yes,yes
+Hannah,Brooker,F,Albany,NY,24,1508665237,No,Yes,Willow Street AC,yes,yes
+Mollie,Turner,F,Averill Park,NY,36,1600598229,Yes,Yes,Willow Street AC,yes,yes
+Melanie,Redfield,F,Albany,NY,23,1608820567,No,Yes,Willow Street AC,yes,yes
+Macky,Lloyd,M,Albany,NY,25,,No,Yes,Willow Street AC,no,yes
+Chester,Tumidajewicz,M,Amsterdam,NY,61,1400029383,Yes,Yes,,yes,yes
+Lee,Pollock,M,Queensbury,NY,63,1401820780,Yes,Yes,,yes,yes
+Eiko,Bogue,F,Schaghticoke,NY,78,1401963523,Yes,Yes,,no,yes
+Eric,Macknight,M,Ballston Lake,NY,27,1407006681,No,Yes,,,yes
+Rebecca,Tennyson,F,Troy,NY,33,1407500980,Yes,Yes,,yes,yes
+Bob,Giambalvo,M,Delhi,NY,66,1501447229,Yes,Yes,,yes,yes
+Paul,Cirillo,M,Mohawk,NY,40,1608841837,No,Yes,,yes,yes
+David,Roy,M,Schoharie,NY,61,1608853329,Yes,Yes,,yes,yes
+rot,Newkirk,M,Albany,NY,71,,Yes,Yes,,,no
+Katherine,Ambrosio,F,Delmar,NY,65,,,,,,yes
+Marie,Arrao,F,Clifton Park,NY,60,,Yes,No,,,yes
+Richard,Baker,M,Rensselaer,NY,41,,Yes,No,,,yes
+Kevin,Baker,M,Glenmont,NY,47,,Yes,No,,,yes
+Richard,Baker,M,Rensselaer,NY,41,,Yes,No,,,yes
+Megan,Baldwin,F,Albany,NY,32,,Yes,No,,,yes
+Kelsey,Barbour,F,Clifton Park,NY,23,,No,No,,,yes
+Jessica,Bashaw,F,Cambridge,NY,33,,No,No,,,yes
+Mike,Becker,M,Niskayuna,NY,52,,Yes,No,,,yes
+Kathleen,Beeman,F,Niskayuna,NY,55,,Yes,No,,,yes
+Kate,Bellotti,F,Scotia,NY,39,,No,No,,,yes
+Ashley,Benincasa,F,Glenville,NY,32,,No,No,,,yes
+Gregory,Bentley,M,Loudonville,NY,38,,Yes,No,,,yes
+Shannon,Bishop,F,Rensselaer,NY,44,,Yes,No,,,yes
+Barbara,Bradley,F,Slingerlands,NY,58,,Yes,No,,,yes
+Daniel,Brady,M,Cohoes,NY,39,,Yes,Yes,,,yes
+Douglas L,Browning Jr,M,Tribes Hill,NY,53,,Yes,No,,,yes
+Rachel,Brunez,F,Scotia,NY,26,,No,No,,,yes
+Elizabeth,Burke,F,Schenectady,NY,26,,Yes,No,,,yes
+Margaret,Burke,F,Schenectady,NY,52,,Yes,No,,,yes
+Rich,Burke,M,Schenectady,NY,52,,Yes,No,,,yes
+Peter,Butryn,M,Schenectady,NY,58,,Yes,No,,,yes
+Melanie,Capron,F,Duanesburg,NY,40,,Yes,,,,yes
+Molly,Casey,F,Albany,NY,31,,Yes,No,,,yes
+Joe,Casholle,M,Duanesburg,NY,16,,No,No,,,yes
+Eric,Clark,M,Waterford,NY,52,,Yes,No,,,yes
+Jeff,Clark,M,Glenmont,NY,58,,Yes,No,,,yes
+Kristine,Clarke,F,Niskayuna,NY,51,,Yes,No,,,yes
+Dave,Cole,M,Schenectady,NY,58,,Yes,,,,yes
+Wendy,Colonno,F,Glenmont,NY,39,,Yes,No,,,yes
+Lara,Comithier,F,Greenville,NY,48,,Yes,No,,,yes
+Pete,Cowie,M,Rotterdam,NY,68,,Yes,No,,,yes
+Nicole,Cox,F,"Troy, Ny",NY,25,,Yes,No,,,yes
+Libbie,Craft,F,Selkirk,NY,39,,No,No,,,yes
+Tara,Curran,F,Selkirk,NY,38,,Yes,No,,,yes
+Jeffrey,Danzy,M,Schenectady,NY,52,,No,,,,yes
+Brian,Daviero,F,Duanesburg,NY,39,,Yes,No,,,yes
+Patricia,Daviero,F,Duanesburg,NY,40,,Yes,No,,,yes
+Michelle,Davis,F,Watervliet,NY,27,,Yes,No,,,yes
+Chuck,DeCitise,M,Troy,NY,45,,Yes,No,,,yes
+John,Deer,M,Slingerlands,NY,33,,Yes,No,,,yes
+Michael,DellaRocco,M,Altamont,NY,64,,Yes,No,,,yes
+Kim,DeMagistris,F,Clifton Park,NY,29,,Yes,No,,,yes
+Brian,Demarest,F,schenectady,NY,48,,Yes,No,,,yes
+Patrick,DiCerbo,M,Niskayuna,NY,49,,No,No,,,yes
+Joshua,DiPierro,M,Cherry Plane,NY,40,,No,No,,,yes
+Leo J.,DiPierro,M,Cherry Plane,NY,65,,Yes,No,,,yes
+Jason,DiPierro,M,Schenectady,NY,41,,Yes,,,,yes
+William,Dodds,M,Schenectady,NY,41,,Yes,No,,,yes
+Kara,Donohue,F,Altamont,NY,38,,No,No,,,yes
+Kelli,Driessen,F,Cohoes,NY,28,,Yes,No,,,yes
+Patrick,Dugan,M,Rexford,NY,37,,Yes,No,,,yes
+John,Dziezynski,M,Niskayuna,NY,51,,Yes,No,,,yes
+Richard,Ernst,M,Delmar,NY,59,,Yes,No,,,yes
+Lynn,Farruggia,F,Halfmoon,NY,47,,Yes,No,,,yes
+Ralph,Feinstein,M,Scotia,NY,62,,Yes,No,,,yes
+Alan,Finder,M,Albany,NY,27,,Yes,No,,,yes
+Timothy,Fioretti,M,Gloversville,NY,40,,Yes,No,,,yes
+Christopher,Fischer,M,Latham,NY,39,,Yes,No,,,yes
+Brenda,Fish,F,Castleton,NY,49,,Yes,No,,,yes
+Dee,Fisher-Golden,F,Slingerlands,NY,45,,Yes,No,,,yes
+Paul,Flayter,M,Loudonville,NY,37,,Yes,No,,,yes
+Mark F.,Fleszar,M,Troy,NY,,,,,,,yes
+Kerry,Flower,F,Schenectady,NY,15,,Yes,No,,,yes
+Paul,Forbes,M,colonie,NY,65,,Yes,No,,,yes
+Lori,Francesconi,F,Waterford,NY,54,,Yes,No,,,yes
+Matthew,Fryer,M,clifton park,NY,35,,Yes,No,,,yes
+Kimberly,Furnish,F,Scotia,NY,43,,Yes,No,,,yes
+Annemarie,Garceau,F,WATERVLIET,NY,46,,Yes,No,,,yes
+Carrie Leigh,Genito,F,Cohoes,NY,44,,Yes,No,,,yes
+Karen,Gerstenberger,F,Albany,NY,58,,Yes,No,,,yes
+Alicia,Gillen,F,Altamont,NY,46,,Yes,No,,,yes
+Kelly,Gillen,F,Altamont,NY,48,,Yes,No,,,yes
+Angela,Gleichsner,F,Rotterdam,NY,33,,Yes,No,,,yes
+Melissa,Gordon,F,Troy,NY,37,,Yes,No,,,yes
+Eric,Gould,M,Rensselaer,NY,37,,No,No,,,yes
+Teresa,Grant,F,Glenmont,NY,43,,Yes,No,,,yes
+cory,gregg,M,schenectady,NY,35,,No,No,,,yes
+Frank,gwinn,M,Troy,NY,42,,No,No,,,yes
+Richard D.,Hamlin,M,Chichester,NY,43,,Yes,No,,,yes
+Lynn,Hansen,F,Wynantskill,NY,42,,Yes,No,,,yes
+Alec,Hansen,M,Wynantskill,NY,10,,Yes,No,,,yes
+Colin,Hansen,M,Wynantskill,NY,12,,Yes,No,,,yes
+DJ,Hansen,M,Wynantskill,NY,42,,Yes,No,,,yes
+Tina,Hayden,F,Schenectady,NY,53,,Yes,No,,,yes
+Fiona,Hayden,F,Schenectady,NY,19,,Yes,No,,,yes
+Courtney,Hill,F,Clifton Park,NY,31,,Yes,No,,,yes
+Patrick,Hilt,M,Colonie,NY,18,,Yes,No,,,yes
+Leland,Hilt,M,Colonie,NY,59,,Yes,No,,,yes
+Alison,Hosier,F,Albany,NY,33,,No,No,,,yes
+Shig,Hosoyama,M,Latham,NY,48,,Yes,No,,,yes
+Susan,Huston,F,Troy,NY,54,,Yes,No,,,yes
+Cheryl,Hutchinson,F,Clifton Park,NY,49,,Yes,No,,,yes
+Krystle,Hutchison,F,Amsterdam,NY,23,,No,No,,,yes
+Mary,Insogna,F,Scotia,NY,43,,Yes,No,,,yes
+Steve,Johnston,M,Niskayuna,NY,65,,Yes,No,,,yes
+Katherine,Jones,F,Averill Park,NY,56,,Yes,No,,,yes
+Stephen P.,Jones,M,Averill Park,NY,61,,Yes,No,,,yes
+Tara,Joyce,F,Altamont,NY,27,,Yes,No,,,yes
+Joshua,Katzman,M,Clifton Park,NY,40,,Yes,No,,,yes
+Susan,Kayne,F,Rensselaerville,NY,49,,No,No,,,yes
+Debra,Kelley,F,albany,NY,62,,Yes,No,,,yes
+Joseph A.,Kelly,M,Menands,NY,82,,Yes,No,,,yes
+Richard,Kelly,M,Schenectady,NY,59,,Yes,No,,,yes
+Susan,Klim,F,altamont,NY,60,,Yes,No,,,yes
+Kendra,Kline,F,Saratoga Springs,NY,26,,No,No,,,yes
+Thomas,Kollar,M,Schenectady,NY,70,,Yes,No,,,yes
+Heather,Kosnick,F,Ballston Spa,NY,41,,Yes,No,,,yes
+Andrew,Krupski,M,Ballston spa,NY,25,,Yes,No,,,yes
+Sunil,Kumta,M,Schenectady,NY,52,,Yes,Yes,,,yes
+Stephanie,Landy,F,Malta,NY,56,,Yes,No,,,yes
+Mike,Langevin,M,Colonie,NY,51,,Yes,No,,,yes
+Mark,Lansing,M,Niskayuna,NY,39,,Yes,No,,no,yes
+Christian W.,Lietzau,M,Delmar,NY,53,,Yes,No,,,yes
+Jeff,Long,M,Albany,NY,32,,Yes,No,,,yes
+GARY,LONGHI,M,VOORHEESVILLE,NY,52,,No,No,,,yes
+Mindy,Mackesey,F,Altamont,NY,52,,No,No,,,yes
+Timothy J.,Mackesey,M,Altamont,NY,58,,Yes,No,,,yes
+Mary Ann,Macri,F,Albany,NY,64,,Yes,No,,,yes
+Holden,Maynard,M,Schenectady,NY,16,,Yes,No,,,yes
+Steve,Maynard,M,Schenectady,NY,40,,Yes,No,,,yes
+Ann,McAvoy,F,Albany,NY,49,,No,No,,,yes
+Garrett,McCann,M,Glenmont,NY,55,,Yes,No,,,yes
+Daniel,McConnelee,M,Schenectady,NY,36,,No,No,,,yes
+Cathy,McCutcheon,F,Guilderland,NY,52,,Yes,No,,,yes
+melissa,mchugh,F,Nassau,NY,43,,No,No,,,yes
+Rebecca,McMillen,F,Schenectady,NY,42,,No,No,,,yes
+John,Mendenhall,M,Saratoga Springs,NY,29,,No,No,,,yes
+Maria,Morales,F,Schenectady,NY,31,,No,No,,,yes
+Eleonora,Morrell,F,Clifton Park,NY,47,,Yes,No,,,yes
+Roy,Mowrey,M,Johnstown,NY,57,,No,No,,,yes
+Frank,Mueller,M,Glenville,NY,56,,Yes,No,,,yes
+Heidi,Nark,F,Clifton Park,NY,35,,Yes,No,,,yes
+Lynne,Neeley,F,Schenectady,NY,52,,Yes,No,,,yes
+Nicole,Niles,F,Albany,NY,39,,Yes,No,,,yes
+joshua,O'Connor,M,Delanson,NY,40,,Yes,No,,,yes
+Erika,Oesterle,F,Stamford,NY,64,,Yes,No,,,yes
+Kyle D.,Ordway,M,Albany,NY,40,,Yes,No,,,yes
+Ana,Orellana,F,albany,NY,52,,No,No,,,yes
+Michael,Paglialonga,M,Castleton,NY,32,,No,No,,,yes
+Eric,Parker,M,Johnstown,NY,60,,No,No,,,yes
+Gerald,Parkes,M,Glenville,NY,51,,No,No,,,yes
+Martin,Patrick,M,East Greenbush,NY,62,,Yes,No,,,yes
+Jill,Penn,F,Colonie,Ny,46,,No,No,,,yes
+George,Penn,M,Colonie,Ny,47,,No,No,,,yes
+Tim,Perry-Coon,M,Latham,NY,60,,Yes,No,,,yes
+Valerie,Pezzula,F,Albany,NY,61,,Yes,No,,,yes
+Sherrri,Pignetti,F,rotterdam junction,NY,52,,Yes,No,,,yes
+Shannon,Pinkowski,F,Albany,NY,40,,Yes,No,,,yes
+Olivia,Popovitch,F,Saratoga Springs,NY,20,,No,No,,yes,yes
+Tracey,Quinn,F,Delanson,NY,32,,No,No,,,yes
+Linda,Quinn,F,Voorheesville,NY,49,,Yes,No,,,yes
+Jay,Quinn,M,Voorheesville,NY,51,,Yes,No,,,yes
+Uzma,Qureshi,F,Slingerlands,NY,54,,Yes,No,,,yes
+Lizzie,Redkey,F,Latham,NY,46,,Yes,No,,,yes
+Gene,Reilly,M,Albany,NY,65,,Yes,,,,yes
+Laura,Rickmyre,F,Schenectady,NY,32,,No,No,,,yes
+Sherry,Ringwood,F,Mechanicville,NY,51,,Yes,No,,,yes
+Jennifer,Rittner,F,Rotterdam,NY,44,,Yes,No,,,yes
+Kelly,Ryan,F,Albany,NY,36,,Yes,No,,,yes
+Lisa,Ryan,F,Clifton Park,NY,46,,No,No,,,yes
+DEIRDRE,SALERNO,F,AMSTERDAM,NY,43,,No,No,,,yes
+Maria,Schollenberger,F,Delmar,NY,58,,Yes,,,,yes
+mary kay,scott,F,schenectady,NY,55,,Yes,No,,,yes
+Amanda,Serafini,F,Nassau,NY,44,,Yes,No,,,yes
+Thomas,Sisson,M,Halfmoon,NY,54,,Yes,No,,,yes
+Emily,Smith,F,Charlotte,NC,26,,No,No,,,yes
+william,smith,M,voorheesville,NY,62,,Yes,No,,,yes
+Mike,Soeller,M,Voorheesville,NY,54,,No,No,,,yes
+Irene,Somerville,F,Wynantskill,NY,22,,Yes,No,,,yes
+Joseph,Somerville,M,Wynantskill,NY,18,,Yes,No,,,yes
+Lisa,Stephenson,F,esperance,NY,50,,Yes,No,,,yes
+Teri,Strutsrum,F,,,46,,No,,,,yes
+David,Strutsrum,M,Delmar,NY,46,,No,,,,yes
+Kelly,Sullivan,F,Schenectady,NY,37,,Yes,No,,,yes
+Joseph,Sullivan,M,Schenectady,NY,37,,Yes,No,,,yes
+Michael,Sweeney,M,Amsterdam,NY,15,,No,No,,,yes
+Emily,Taft,F,Albany,NY,25,,No,No,,,yes
+Brian,Teague,M,Glens Falls,NY,57,,Yes,No,,,yes
+Melissa,Tiberio,F,Scotia,NY,29,,Yes,No,,,yes
+Tom,Tiberio,M,Scotia,NY,30,,Yes,No,,,yes
+Andy,Timbrook,M,Cohoes,NY,27,,Yes,No,,,yes
+Anne,Tyrrell,F,Albany,NY,65,,Yes,No,,,yes
+Fran,Veloce,F,Guilderland,NY,51,,Yes,No,,,yes
+Steve,Vnuk,M,Delmar,NY,60,,Yes,No,,,yes
+Mary,Walsh,F,Albany,NY,44,,Yes,No,,,yes
+Diane,Ward,F,Albany,NY,58,,Yes,No,,,yes
+Sara,Westcott,F,Castleton,NY,32,,Yes,No,,,yes
+John,Westcott,M,Castleton,NY,31,,Yes,No,,,yes
+Donovan,White,M,albany,NY,35,,Yes,No,,,yes
+Jessica,Whiting,F,Scotia,NY,38,,Yes,No,,,yes
+Cade,Whiting,M,Scotia,NY,8,,Yes,No,,,yes
+Bowden,Wise,M,Clifton Park,NY,53,,Yes,No,,,yes
+Cara,Wolff,F,Niskayuna,NY,41,,Yes,No,,,yes
+Amy,Wright,F,Berne,Ny,38,,Yes,No,,,yes
+Philip,yoss,M,New Hartford,NY,23,,No,No,,,yes
+daniel,zibro,M,waterford,NY,45,,No,No,,,yes
+Kristin,Zielinski,F,Altamont,NY,35,,Yes,No,,,yes
+Cynthia,Zinzow,F,Sloansville,NY,34,,Yes,No,,,yes
+Zachary,Zinzow,M,Sloansville,NY,11,,Yes,No,,,yes
+Christin,Zorda,F,Rotterdam,NY,34,,Yes,No,,,yes
+Brittany,Desiato,F,Clifton Park,NY,22,,Yes,No,,,no
+Janet,Wallace,F,Thetford center,VT,48,,No,No,,,no
