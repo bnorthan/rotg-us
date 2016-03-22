@@ -43,6 +43,7 @@ def select_runners():
     
     selected["color"] = np.where(selected["LASTNAME"] == last_name_val, "red", "green")
     selected["alpha"] = np.where(selected["LASTNAME"] == last_name_val, 0.95, 0.4)
+    selected["size"] = np.where(selected["LASTNAME"] == last_name_val, 20, 8)
 
     '''
     if (last_name_val != ""):
@@ -55,7 +56,7 @@ def select_runners():
 def update(attrname, old, new):
     df=select_runners()
 
-    source.data=dict(x=df['AGE'], y=df['TIMESTAMP'],color=df['color'],alpha=df['alpha'])
+    source.data=dict(x=df['AGE'], y=df['TIMESTAMP'],color=df['color'],alpha=df['alpha'],size=df['size'],last_name=df['LASTNAME'], first_name=df['FIRSTNAME'],time=df['TIME'],year=df['YEAR'])
 
 runners=pd.read_csv('./output/alltime.csv')
 
@@ -65,7 +66,11 @@ source = ColumnDataSource(data=dict(x=[], y=[]))
 
 p = Figure(plot_width=1400, plot_height=800, y_axis_type='datetime')
 #s1=p.scatter('AGE', 'TIMESTAMP', source =source, size=15, alpha=0.5)
-p.circle(x="x", y="y", source=source, size=10,color="color",fill_alpha="alpha")
+p.circle(x="x", y="y", source=source, size="size",color="color",fill_alpha="alpha")
+
+hover = HoverTool()
+hover.tooltips = [('First Name', '@first_name'), ('Last Name', '@last_name'), ('Time', '@time'), ('Year', '@year'), ('Age', '@x')]
+p.add_tools(hover)
 
 controls=[min_year, max_year, last_name]
 
