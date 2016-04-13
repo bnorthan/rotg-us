@@ -1,0 +1,17 @@
+  {% if l_race %}
+    <p>Results for the {{l_race.race_name}}</p><br>
+  <table border="1">
+    {% for r in l_race.result_set.all %}
+    <tr>
+      <td><a href="/results/{{r.id}}/">{{r.first_name}} {{r.last_name}}</a></td>
+      <td>{{r.gender}}</td>
+      <td>{{r.city}}</td>
+      <td>{{r.state}}</td>
+      <td>{{r.timestring}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+{% else %}
+<p>No runners race</p>
+{% endif %}
+ 
