@@ -9,7 +9,7 @@ GENDER_CHOICES=(
     )
 
 # Create your models here.
-class Runner(models.Model):
+class Member(models.Model):
     first_name=models.CharField(max_length=200)
     last_name=models.CharField(max_length=200)
     gender=models.CharField(max_length=1, choices=GENDER_CHOICES)
@@ -17,6 +17,7 @@ class Runner(models.Model):
     state=USStateField(blank=True)
     
     date_birth=models.DateTimeField('date of birth')
+
 
     def __str__(self):
         return self.first_name+" "+self.last_name
@@ -38,10 +39,10 @@ class Result(models.Model):
     age=models.IntegerField(default='0')
     time=models.TimeField()
     pace=models.TimeField(default='00:00')
-    splits=models.CharField(max_length=400, default='00:00')
+    splits=models.CharField(max_length=400, default='00:00', blank=True, null=True)
     
     race=models.ForeignKey(Race, on_delete=models.CASCADE)
-    runner=models.ForeignKey(Runner, on_delete=models.CASCADE, blank=True, null=True)
+    member=models.ForeignKey(Member, on_delete=models.CASCADE, blank=True, null=True)
 
     def timestring(self):
         try:
@@ -56,7 +57,7 @@ class Result(models.Model):
 
     def __str__(self):
 
-        return str(self.first_name+" "+self.last_name+" "+timestring(self))
+        return str(self.first_name+" "+self.last_name+" "+self.timestring())
 
 
 

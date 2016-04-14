@@ -1,4 +1,18 @@
-  {% if l_race %}
+
+{% load render_table from django_tables2 %}
+<!doctype html>
+<html>
+  <head>
+  <!--  
+  <link rel="stylesheet" href="django_tables2/themes/paleblue/css/screen.css" />
+  -->
+  </head>
+  <body>
+    {% render_table l_race %}
+  </body>
+</html>
+<!--
+{% if l_race %}
     <p>Results for the {{l_race.race_name}}</p><br>
   <table border="1">
     {% for r in l_race.result_set.all %}
@@ -14,4 +28,4 @@
 {% else %}
 <p>No runners race</p>
 {% endif %}
- 
+-->

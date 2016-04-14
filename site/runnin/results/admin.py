@@ -2,11 +2,11 @@ from django.contrib import admin
 
 # Register your models here.
 
-from .models import Runner
+from .models import Member
 from .models import Race
 from .models import Result
 
-admin.site.register(Runner)
+admin.site.register(Member)
 admin.site.register(Race)
 admin.site.register(Result)
 
