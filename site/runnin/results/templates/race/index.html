@@ -3,9 +3,13 @@
 <!doctype html>
 <html>
   <head>
-  <!--  
-  <link rel="stylesheet" href="django_tables2/themes/paleblue/css/screen.css" />
-  -->
+    
+  <!--<link rel="stylesheet" href="/static/django_tables2/themes/paleblue/css/screen.css" />
+  --> 
+
+  {% load staticfiles %}
+  <link rel="stylesheet" href="{% static 'race/table1.css' %}"  />
+ 
   </head>
   <body>
     {% render_table l_race %}
