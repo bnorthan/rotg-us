@@ -5,7 +5,7 @@
 
 E-mail bnorthan@gmail.com with corrections, questions and complaints
 
-Preliminary team results now available.  Team results are complicated stuff with age grading and a punishing penalty for teams without women.  We try are best to get it out as fast as possible given our limited technical skill [full report on our current technical abilities here](technical.md).  
+Preliminary team results now available.  Team results are complicated stuff with age grading and a punishing penalty for teams without women.  
 
 [TEAM RESULTS 1996 formatting like the timing system we used](notebooks/teams2023.html)
 
@@ -52,7 +52,9 @@ Place Div/Tot  Name                Age S City            St Time    Pace
 
 ```
 
-THANK YOU TO OUR TECH TEAM FOR MAKING ALL THIS POSSIBLE
+THANK YOU TO OUR TECH TEAM FOR MAKING ALL THIS POSSIBLE  
+
+We try are best to get all this done as fast as possible given our limited technical skill [full report on our current technical abilities here](technical.md).    
 
 ![image](https://user-images.githubusercontent.com/4366342/225789024-ee3958ec-65e0-439c-89ec-48c24594b5ad.png)
 
