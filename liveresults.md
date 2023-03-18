@@ -1,9 +1,13 @@
 # RUNNIN' OF THE GREEN 2023! NOW 5k!
 
-## Looking for LIVE Results ?? 
+## Looking for LIVE Results ??  WE are trying.  Keep looking here.  
 <img src="https://user-images.githubusercontent.com/4366342/225788150-0e50f837-88b2-47c9-8c37-59d693b4150c.png" width="200">
 
-# BIG BIG NEWS!  NOW FEATURING LIIIIVVVE RESULTS USING THE LATEST TECHNOLOGY
+E-mail bnorthan@gmail.com with corrections, questions and complaints
+
+Preliminary team results now available.  Team results are complicated stuff with age grading and a punishing penalty for teams without women.  We try are best to get it out as fast as possible given our limited technical skill [full report on our current technical abilities here](technical.md).  
+
+[TEAM RESULTS 1996 formatting like the timing system we used](notebooks/teams2023.html)
 
 (Test with last year's results)
 ```
@@ -48,7 +52,7 @@ Place Div/Tot  Name                Age S City            St Time    Pace
 
 ```
 
-THANK YOU TO OUR TECH TEAM FOR MAKING THIS POSSIBLE AT THE LAST MINUTE!
+THANK YOU TO OUR TECH TEAM FOR MAKING ALL THIS POSSIBLE
 
 ![image](https://user-images.githubusercontent.com/4366342/225789024-ee3958ec-65e0-439c-89ec-48c24594b5ad.png)
 
