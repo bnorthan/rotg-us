@@ -7,6 +7,8 @@ E-mail bnorthan@gmail.com with corrections, questions and complaints
 
 Preliminary team results now available.  Team results are complicated stuff with age grading and a punishing penalty for teams without women.  
 
+[LIVE RESULTS](results2023.md)  
+
 [TEAM RESULTS 1996 formatting like the timing system we used](notebooks/teams2023.html)
 
 (Test with last year's results)
