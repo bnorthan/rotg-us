@@ -34,7 +34,7 @@ Place Div/Tot  Name                Age S City            St Time    Pace
    30   7/23   Peter Koch           41 M Delmar          NY   18:40  6:01 
    31   8/23   Clay Lodovice        47 M Voorheesville   NY   18:47  6:03 
    32   8/19   Greg Potestio        37 M Delmar               18:49  6:04 
-   33   9/19   Thomas O'Grady       37 M Slingerlands    NE   18:50  6:04 
+   33   9/19   Thomas O Grady       37 M Slingerlands    NE   18:50  6:04 
    34   2/4    Elizabeth Predmore   28 F Malta           NY   18:53  6:05 
    35   4/15   Nicole Moslander     35 F Schenectady     NY   18:56  6:06 
    36   7/16   Jack Zieber          15 M Rotterdam       NY   18:56  6:06 
